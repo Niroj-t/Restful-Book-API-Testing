@@ -9,9 +9,8 @@ This project demonstrates API testing of the Restful Booker application using Po
 * Postman (API Testing)
 
 ![alt text](<Screenshot 2026-03-26 121827.png>)
-* Newman (CLI Runner)
 
-![alt text](<Screenshot 2026-03-26 121916.png>)
+* Newman (CLI Runner)
 * GitHub (Version Control)
 
 ## API Tested
