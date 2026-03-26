@@ -17,7 +17,7 @@ This project demonstrates API testing of the Restful Booker application using Po
 
 https://restful-booker.herokuapp.com/apidoc/
 
-## 📂 Project Structure
+## Project Structure
 
 * `restful-booker-collection.json` → Postman Collection
 * `environment.json` → Environment variables
@@ -47,7 +47,7 @@ https://restful-booker.herokuapp.com/apidoc/
 * Data consistency
 * Authentication handling
 
-## ▶️ How to Run
+##  How to Run
 
 1. Import collection in Postman
 2. Set environment variables
